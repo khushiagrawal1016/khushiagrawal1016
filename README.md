@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Khushi Agrawal! :)
+- 👋 Hi, I’m Khushi Agrawal! :)  
+
 - 👀 I’m currently in my Fresher year of Engineering and am curious to explore different Tech Stacks.
 <!--- - 🌱 I’m currently learning ...--->
 <!--- - 💞️ I’m looking to collaborate on ... --->
